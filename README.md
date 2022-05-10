@@ -6,11 +6,11 @@
 <img src="https://telegra.ph/file/14342cc8e29c372e38838.jpg">
 
 <p align="center">
-  <a href="https://github.com/YusrilRNLD/U-Bot/fork">
-    <img src="https://img.shields.io/github/forks/YusrilRNLD/U-Bot?label=Fork&style=social">
+  <a href="https://github.com/yusril4you/U-Bot/fork">
+    <img src="https://img.shields.io/github/forks/yusril4you/U-Bot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/YusrilRNLD/U-Bot">
+  <a href="https://github.com/yusril4you/U-Bot">
     <img src="https://img.shields.io/github/stars/YusrilRNLD/U-Bot?style=social">
   </a>
 </p>  
@@ -24,7 +24,7 @@
 
 
 ## DEPLOY TO HEROKU
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/YusrilRNLD/U-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="300" height="38.60" /></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/yusril4you/U-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="300" height="38.60" /></a></p>
 
 
 ## Credit
