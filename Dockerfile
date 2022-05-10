@@ -1,5 +1,5 @@
 
-FROM yusril4you/U-Bot:master
+FROM yusril4you/ubot:master
 #    RAM-UBOT DOCKER
 #   FROM DOCKERHUB.COM
 # ======================
